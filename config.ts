@@ -7,7 +7,7 @@ export const ARCGIS_FILE = path.resolve(__dirname, 'data/arcgis.json');
 
 export const DTO_FILE = path.resolve(__dirname, 'data/dto.json');
 
-export const LKOD_URL = process.env.URL || process.env.VERCEL_URL || 'https://open.datakhk.cz';
+export const LKOD_URL = process.env.LKOD_URL;
 export const LKOD_DIR = path.resolve(__dirname, 'public');
 export const LKOD_FILE = path.resolve(__dirname, 'public/katalog.jsonld');
 
