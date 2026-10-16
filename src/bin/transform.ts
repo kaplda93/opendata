@@ -70,7 +70,7 @@ import * as CONFIG from "../../config.ts";
 		dataset["téma"] = detectTheme(arcgisDataset);
 		dataset["periodicita_aktualizace"] = detectPeriodicity(arcgisDataset);
 		dataset["prvek_rúian"] = [
-			"https://linked.cuzk.cz/resource/ruian/vusc/86",
+			"https://linked.cuzk.cz/resource/ruian/vusc/116",
 		];
 
 		const documentation = detectDocumentation(arcgisDataset);
