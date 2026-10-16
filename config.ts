@@ -17,8 +17,8 @@ export const META_LKOD = {
 	provider: "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70888337",
 	homepage: "https://geodata-jmkgis.opendata.arcgis.com",
 	contact_type: 'Organizace',
-	contact_name: 'Krajský úřad Královéhradeckého kraje / Odbor analýz a podpory řízení',
-	contact_email: 'datakhk@kr-kralovehradecky.cz',
+	contact_name: 'Krajský úřad Jihomoravského kraje / Odbor informatiky',
+	contact_email: 'data@kr-jihomoravsky.cz',
 	themes: {
 		'Kraj a dotace': ['REGI', 'GOVE'],
 		'Investice kraje': ['GOVE', 'ECON'],
