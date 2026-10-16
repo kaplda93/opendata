@@ -12,10 +12,10 @@ export const LKOD_DIR = path.resolve(__dirname, 'public');
 export const LKOD_FILE = path.resolve(__dirname, 'public/katalog.jsonld');
 
 export const META_LKOD = {
-	name_cz: "Katalog otevřených dat Královéhradeckého kraje",
-	description_cz: "Otevřená data Kralovéhradeckého kraje. Datové sady jsou ve strojově čitelných formátech, volně přístupné k libovolným (legálním) účelům využití, bez licenčních omezení.",
-	provider: "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70889546",
-	homepage: "https://datakhk.cz",
+	name_cz: "Katalog otevřených dat Jihomoravského kraje",
+	description_cz: "Katalog otevřených dat Jihomoravského kraje. Obsahuje veřejně dostupné geografické datové sady publikované prostřednictvím ArcGIS Hub.",
+	provider: "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70888337",
+	homepage: "https://geodata-jmkgis.opendata.arcgis.com",
 	contact_type: 'Organizace',
 	contact_name: 'Krajský úřad Královéhradeckého kraje / Odbor analýz a podpory řízení',
 	contact_email: 'datakhk@kr-kralovehradecky.cz',
